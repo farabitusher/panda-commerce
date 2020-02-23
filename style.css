@@ -64,3 +64,8 @@ p{
     height: 300px;
     background-color:#e8f9e9 ;
 }
+footer{
+    text-align: center;
+    background-color: grey;
+    color: whitesmoke;
+}
